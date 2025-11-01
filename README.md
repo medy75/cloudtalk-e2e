@@ -59,6 +59,7 @@ Failed test contains the screenshot of the failed screen and trace from the brow
 ![test-screenshot.png](assets/test-screenshot.png)
 
 ## Tested application
+Git repo with my application: https://github.com/medy75/cloudtalk-converter-app
 ![app-screenshot.png](assets/app-screenshot.png)
 
 
